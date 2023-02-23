@@ -1,4 +1,4 @@
-# SPRocket-Data-Analysis-
+# SPRocket-Data Visualization using PowerBI
 
 KPMG Data Analysis Virtual Internship Task 2
 
